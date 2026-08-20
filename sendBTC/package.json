@@ -1,0 +1,20 @@
+{
+  "name": "btcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.19.0",
+    "bitcoinjs-lib": "^7.0.1",
+    "bitcore-lib": "^10.10.7",
+    "bitcore-mnemonic": "^10.10.7",
+    "dotenv": "^17.4.2",
+    "ecpair": "^3.0.1",
+    "tiny-secp256k1": "^2.2.4"
+  }
+}
